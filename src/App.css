@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+}
+ 
+input {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  padding: 5px;
+  width: 250px;
+  font-family: 'Nunito', sans-serif;
+}
+ 
+select {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  width: 250px;
+  font-family: 'Nunito', sans-serif;  
+ }
+ 
+ button {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  padding: 5px;
+  width: 250px;
+  font-family: 'Nunito', sans-serif;
+}
+ 
+.main-container {
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  align-items: center;
+  background-color: #6297b6;
+}
+ 
+.App {
+  text-align: center;  
+ }
